@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "My app",
+    "name": "My first test",
     "slug": "my-first-project",
     "privacy": "public",
     "sdkVersion": "32.0.0",
@@ -24,6 +24,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/EvaSpessotto/test-react-native"
   }
 }
